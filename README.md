@@ -8,4 +8,4 @@ Legajo: 12507
 - Vivo en escobar
 - Juego al futbol
 - Tengo un perro
-![Foto]("C:\Users\chatt\Downloads\pancho.jpg.jpeg")
+![Foto]("blob:https://web.whatsapp.com/1f1a9807-64f5-4114-a111-b79e04da5275")
